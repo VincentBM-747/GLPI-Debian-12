@@ -83,9 +83,6 @@ Debian 12
 
 ![GLPI Dashboard](glpi-dashboard.png)
 
-### Active Directory Integration
-
-![Active Directory Integration](active-directory-integration.png)
 
 ## Project Outcome
 
