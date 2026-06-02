@@ -32,7 +32,6 @@ The objective was to centralize incident management and integrate user authentic
 - Web Server Administration
 - Database Management
 - LDAP Authentication
-- Active Directory Integration
 - IT Service Management
 
 ## Project Architecture
@@ -43,7 +42,6 @@ Debian 12
 ├── PHP 8.3
 ├── MariaDB
 └── GLPI
-     └── Active Directory Authentication
 ```
 
 ## Installation Process
@@ -55,7 +53,6 @@ Debian 12
 5. Create GLPI database
 6. Download and deploy GLPI
 7. Configure permissions
-8. Connect GLPI to Active Directory
 
 ## Screenshots
 
